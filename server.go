@@ -13,7 +13,7 @@ import (
 	"slices"
 	"sync"
 
-	jsonrpc2 "golang.org/x/mcp/internal/jsonrpc2_v2"
+	jsonrpc2 "golang.org/x/mcp/jsonrpc2_v2"
 )
 
 // A Server is an instance of an MCP server.

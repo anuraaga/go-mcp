@@ -15,7 +15,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	jsonrpc2 "golang.org/x/mcp/internal/jsonrpc2_v2"
+	jsonrpc2 "golang.org/x/mcp/jsonrpc2_v2"
 )
 
 // A ServerResource associates a Resource with its handler.

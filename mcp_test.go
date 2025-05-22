@@ -20,8 +20,8 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	jsonrpc2 "golang.org/x/mcp/internal/jsonrpc2_v2"
 	"golang.org/x/mcp/internal/jsonschema"
+	jsonrpc2 "golang.org/x/mcp/jsonrpc2_v2"
 )
 
 type hiParams struct {

@@ -14,7 +14,7 @@ import (
 	"os"
 	"sync"
 
-	jsonrpc2 "golang.org/x/mcp/internal/jsonrpc2_v2"
+	jsonrpc2 "golang.org/x/mcp/jsonrpc2_v2"
 )
 
 // ErrConnectionClosed is returned when sending a message to a connection that

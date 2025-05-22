@@ -15,7 +15,7 @@ import (
 	"fmt"
 	"slices"
 
-	jsonrpc2 "golang.org/x/mcp/internal/jsonrpc2_v2"
+	jsonrpc2 "golang.org/x/mcp/jsonrpc2_v2"
 )
 
 // A MethodHandler handles MCP messages.

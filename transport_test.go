@@ -9,7 +9,7 @@ import (
 	"io"
 	"testing"
 
-	jsonrpc2 "golang.org/x/mcp/internal/jsonrpc2_v2"
+	jsonrpc2 "golang.org/x/mcp/jsonrpc2_v2"
 )
 
 // BatchSize causes a transport to collect n requests or notifications before

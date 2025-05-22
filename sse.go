@@ -16,7 +16,7 @@ import (
 	"strings"
 	"sync"
 
-	jsonrpc2 "golang.org/x/mcp/internal/jsonrpc2_v2"
+	jsonrpc2 "golang.org/x/mcp/jsonrpc2_v2"
 )
 
 // This file implements support for SSE transport server and client.
